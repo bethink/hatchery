@@ -1,0 +1,147 @@
+@font-face {
+    font-family: 'icomoon';
+    src:
+      url('../fonts/webfonts/icomoon-edw7lx.ttf') format('truetype'),
+      url('../fonts/webfonts/icomoon-edw7lx.woff') format('woff'),
+      url('../fonts/webfonts/icomoon-edw7lx.svg#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+  }
+  
+  [class^="ico-"], [class*=" ico-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: never;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+  
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .ico-Facebook:before {
+    content: "\e900";
+  }
+  .ico-Instagram:before {
+    content: "\e901";
+  }
+  .ico-Twitter:before {
+    content: "\e902";
+  }
+  .ico-Youtube:before {
+    content: "\e903";
+  }
+  .ico-Search:before {
+    content: "\e904";
+  }
+  .ico-Cart:before {
+    content: "\e905";
+  }
+  .ico-Chevron-left-line:before {
+    content: "\e906";
+  }
+  .ico-Chevron-right-line:before {
+    content: "\e907";
+  }
+  .ico-Pen:before {
+    content: "\e908";
+  }
+  .ico-Reply:before {
+    content: "\e909";
+  }
+  .ico-Shop:before {
+    content: "\e90a";
+  }
+  .ico-Star-filled:before {
+    content: "\e90b";
+  }
+  .ico-Star:before {
+    content: "\e90c";
+  }
+  .ico-Cross:before {
+    content: "\e90d";
+  }
+  .ico-Loading:before {
+    content: "\e90e";
+  }
+  .ico-Check:before {
+    content: "\e90f";
+  }
+  .ico-Tile:before {
+    content: "\e910";
+  }
+  .ico-List:before {
+    content: "\e911";
+  }
+  .ico-Chevron-down-line:before {
+    content: "\e912";
+  }
+  .ico-Chevron-up-line:before {
+    content: "\e913";
+  }
+  .ico-quote:before {
+    content: "\e914";
+  }
+  .ico-log-in:before {
+    content: "\e915";
+  }
+  .ico-kavork:before {
+    content: "\e916";
+  }
+  .ico-phone:before {
+    content: "\e917";
+  }
+  .ico-mail:before {
+    content: "\e918";
+  }
+  .ico-location-outline:before {
+    content: "\e919";
+  }
+  .ico-Calendar:before {
+    content: "\e91a";
+  }
+  .ico-Pin:before {
+    content: "\e91b";
+  }
+  .ico-Clock:before {
+    content: "\e91c";
+  }
+  .ico-User:before {
+    content: "\e91d";
+  }
+  .ico-arrow-left:before {
+    content: "\e91e";
+  }
+  .ico-arrow-right:before {
+    content: "\e91f";
+  }
+  .ico-location-outline-ff:before {
+    content: "\e922";
+  }
+  .ico-mail-ff:before {
+    content: "\e923";
+  }
+  .ico-phone-ff:before {
+    content: "\e924";
+  }
+  .ico-search-ff:before {
+    content: "\e925";
+  }
+  .ico-send-ff:before {
+    content: "\e926";
+  }
+  .ico-shopping-bag-ff:before {
+    content: "\e927";
+  }
+  .ico-qoute-testimonials:before {
+    content: "\e920";
+  }
+  .ico-just-link-arrow:before {
+    content: "\e921";
+  }
+  

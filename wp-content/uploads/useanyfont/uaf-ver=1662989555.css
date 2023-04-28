@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'tuesday-night';
+					src: url('5635tuesday-night.woff2') format('woff2'),
+						url('5635tuesday-night.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.tuesday-night{font-family: 'tuesday-night' !important;}
+
+		
